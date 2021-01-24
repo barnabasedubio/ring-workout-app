@@ -3,10 +3,12 @@
 		<v-col cols="12" xl="12">
 			<v-card>
 				<v-card-title>
-					<h1>Vertical Push</h1>
+					<h4>Vertical Push</h4>
 				</v-card-title>
 			</v-card>
 		</v-col>
+		<exercise-card></exercise-card>
+		<exercise-card></exercise-card>
 		<exercise-card></exercise-card>
 	</v-row>
 </template>
